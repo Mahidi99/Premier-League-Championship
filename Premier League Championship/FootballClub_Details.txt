@@ -1,0 +1,47 @@
+	Club : Gladiators
+	Register Number : 123W 
+	Location : Galle 
+	Number of matches played : 47 
+	Winning years : 2020-01-19 
+	Number of Wins : 41 
+	Number of Draws : 3 
+	Number of Defeats : 3 
+	Number of Scored Goals : 154 
+	Number of Received Goals : 113 
+	Number of Points : 80
+
+	Club : Fladiators 
+	Register Number : Y789 
+	Location : Jaela 
+	Number of matches played : 51 
+	Winning years : 2013-02012 
+	Number of Wins : 40 
+	Number of Draws : 6 
+	Number of Defeats : 5 
+	Number of Scored Goals : 33 
+	Number of Received Goals : 11 
+	Number of Points : 71
+
+	Club : Hladiators 
+	Register Number : J78Y 
+	Location : Galle 
+	Number of matches played : 89 
+	Winning years : 2021-01-01 
+	Number of Wins : 50 
+	Number of Draws : 30 
+	Number of Defeats : 9 
+	Number of Scored Goals : 99 
+	Number of Received Goals : 54 
+	Number of Points : 67
+
+	Club : Sladiators 
+	Register Number : 890H 
+	Location : Kandy 
+	Number of matches played : 13 
+	Winning years : 2017-12-12 
+	Number of Wins : 8 
+	Number of Draws : 3 
+	Number of Defeats : 2 
+	Number of Scored Goals : 56 
+	Number of Received Goals : 57 
+	Number of Points : 44
